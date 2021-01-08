@@ -1,0 +1,6 @@
+# SongRecommendationEngine
+
+By utilizing the Million Song Dataset (MSD), we tried different algorithms for a music recommendation system in order to evaluate them for performance. In this project, we compare the popularity model, item-based collaborative filtering model, item-based model with Singular Value Decomposition(SVD), and k-Nearest Neighbour(k-NN). For evaluating machine learning models we computed the F-1 score for popularity model and k-NN, while root mean squared error (RMSE) for popularity, item-based and SVD models. We concluded that the item-based model with SVD performed the best for music recommendation amongst the algorithms implemented. 
+
+# Motivation
+Music is something that almost everyone can relate to and music recommendation systems are now common on platforms such as Youtube or Spotify. By exercising different machine learning techniques on a skeleton music recommendation system, we gain a deeper understanding of the various techniques and their application to personalize music. We can draw our own conclusions on the best implementation for a music recommendation system on the basis of various performance metrics and compare it to the existing literature. Thus this type of project is method based.
